@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/defi/static/css/main.fa7f2609.css",
+    "main.js": "/defi/static/js/main.29da9c8c.js",
+    "static/media/video.mp4": "/defi/static/media/video.a2703484bb9eee7d0c2e.mp4",
+    "static/media/subscribe.jpg": "/defi/static/media/subscribe.5e6ecdcfa451a31625d0.jpg",
+    "static/media/terminal.png": "/defi/static/media/terminal.008c23b28e62ddbd576c.png",
+    "index.html": "/defi/index.html",
+    "main.fa7f2609.css.map": "/defi/static/css/main.fa7f2609.css.map",
+    "main.29da9c8c.js.map": "/defi/static/js/main.29da9c8c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7f2609.css",
+    "static/js/main.29da9c8c.js"
+  ]
+}
